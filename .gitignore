@@ -46,3 +46,4 @@ tweets.csv.csv
 tweets.csv
 tweets.csv.csv
 real_time_sentiment_analysis/data/tweets.csv
+# Exclude model binaries and large data\nreal_time_sentiment_analysis/models/*.pkl\nreal_time_sentiment_analysis/models/*/*.pkl\nreal_time_sentiment_analysis/data/*.csv\n*.docx\npush_temp/
