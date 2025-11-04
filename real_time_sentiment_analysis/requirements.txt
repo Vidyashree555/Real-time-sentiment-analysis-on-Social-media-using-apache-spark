@@ -1,0 +1,9 @@
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+nltk==3.9.1
+streamlit==1.36.0
+matplotlib==3.9.0
+pyspark==3.5.1
+kafka-python==2.0.2
+tweepy==4.13.0
